@@ -16,7 +16,7 @@ To look up movie information: node liri movie-this <movie title>
 
 
 # Presentation Video
-Click Here: https://drive.google.com/open?id=1heLVOg26Brq6xmMO9_IfMJ0xJNfc851U
+<href src="https://drive.google.com/open?id=1heLVOg26Brq6xmMO9_IfMJ0xJNfc851U" target=_blank>Click Here to view presentation</href>
 
 # Technologies Used
 JavaScript API and Libraries:
