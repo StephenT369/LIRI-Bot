@@ -115,9 +115,7 @@ function omdb() {
       "Release Year: " + movie.data.Released.substring(7, 11) + "\r\n"
     );
     console.log("IMDB Rating: " + movie.data.imdbRating + "\r\n");
-    console.log(
-      "Rotten Tomatoes Rating: " + movie.data.Ratings[1].Value + "\r\n"
-    );
+    console.log("Rotten Tomatoes Rating: " + movie.data.Ratings[1].Value + "\r\n");
     console.log("Language: " + movie.data.Language + "\r\n");
     console.log("Plot : " + movie.data.Plot + "\r\n");
     console.log("Actors: " + movie.data.Actors + "\r\n");
