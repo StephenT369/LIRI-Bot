@@ -5,13 +5,13 @@ LIRI Bot is a node.js app that will help you find concert information and song i
 
 To use LIRI BOT run the following commands in your terminal:
 
-# To look up concert informaiton: node liri concert-this <artist name>
+# To look up concert informaiton: 'node liri concert-this <artist name>'
     # example: node liri concert-this Maroon 5
 
-# To look up song information: node liri spotify-this-song <song title>
+# To look up song information: 'node liri spotify-this-song <song title>'
     # example: node liri spotify-this-song Happier
 
-# To look up movie information: node liri movie-this <movie title>
+# To look up movie information: 'node liri movie-this <movie title>'
     # example: node liri movie-this Star Wars
 
 
