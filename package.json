@@ -4,7 +4,7 @@
   "description": "LIRI is a _Language_ Interpretation and Recognition Interface.",
   "main": "liri.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dotenv": "^8.0.0",
     "eslint-utils": "^1.4.2",
     "moment": "^2.24.0",
